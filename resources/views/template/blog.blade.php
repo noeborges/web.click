@@ -51,7 +51,7 @@
 
 
 
-          <p class="intro-description wow fadeInRight">Te ayudamos a conocer el mundo digital</p>
+          <p class="intro-description wow fadeInRight">Te ayudamos a conectarte con el mundo digital</p>
 
         </div>
 

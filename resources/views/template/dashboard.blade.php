@@ -1,6 +1,6 @@
 @extends('template.layout')
 
-    <title>@section('titulo') Paginas WEB, Marketing Digital, Diseño Grafico Tulum</title>
+    <title>@section('titulo') Paginas WEB, Marketing Digital, Diseño Grafico Tulum. Qroo</title>
 
 @section('opengraph')
 
@@ -106,7 +106,7 @@
             <div class="col-xl-7 col-lg-7 col-12">
               <div class="section-name wow fadeInRight"></div>
               <h3 class="text-capitalize devider-left wow fadeInLeft font-weight-bold" data-wow-delay=".2s">¿Como lo <span class="text-primary"> Hacemos?</span></h3>
-              <p>Tanto si sabes lo que quieres como si no te ayudamos en el proceso de digitalizar a tu empresa o servicio haciendo un previo analisis para implementar las mejores estrategias y herramientas.</p>
+              <p>Si sabes lo que quieres como si no te ayudamos en el proceso de digitalizar a tu empresa o servicio haciendo un previo analisis para implementar las mejores estrategias y herramientas.</p>
               <div class="row row-15">
                 <div class="col-xl-6 wow fadeInUp" data-wow-delay=".2s">
                   <div class="box-default">
