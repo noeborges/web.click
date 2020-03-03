@@ -1,0 +1,28 @@
+<IfModule mod_rewrite.c>
+    <IfModule mod_negotiation.c>
+        Options -MultiViews
+    </IfModule>
+
+    RewriteEngine On
+
+    # Redirect Trailing Slashes If Not A Folder...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(.*)/$ /$1 [L,R=301]
+
+    # Handle Front Controller...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^ index.php [L]
+
+    # Handle Authorization Header
+    RewriteCond %{HTTP:Authorization} .
+    RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+
+    Redirect 301 /promocion-pagina-web-landing-tulum /diseno-web
+    Redirect 301 /contactanos /
+    Redirect 301 /tips-para-hacer-tu-celular-android-mas-rapido /
+    Redirect 301 /top-6-excelentes-aplicaciones-para-tu-dispositivo-movil-android /
+    Redirect 301 /reparacion-de-computadoras-tulum/5-tips-para-el-cuidado-de-tu-computadora /
+    
+
+</IfModule>
