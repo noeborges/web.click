@@ -89,7 +89,7 @@
               <div class="block-sm offset-top-45">
                 <div class="section-name wow fadeInRight" data-wow-delay=".2s">Conocenos</div>
                 <h3 class="wow fadeInLeft text-capitalize devider-bottom font-weight-bold" data-wow-delay=".3s">¿Quienes<span class="text-primary"> Somos?</span></h3>
-                <p class="offset-xl-40 wow fadeInUp" data-wow-delay=".4s">Somos un Team de Freelancers Diseñadores e Ingenieros que Ayudamos a alas pequeñas y medianas empresas a integrarse al la transformación digital en 2019</p>
+                <p class="offset-xl-40 wow fadeInUp" data-wow-delay=".4s">Somos un Team de Freelancers Ingenieros que Ayudamos a alas pequeñas y medianas empresas a integrarse al la transformación digital en 2019</p>
                 <p class="default-letter-spacing wow fadeInUp" data-wow-delay=".4s">Integrando nuevas tecnologias, Herramientas como el Diseño WEB, Marketing Digital, Administración de Redes Sociales que te ayudaran a digitalizar tu servicio o negocio y aumentar tus ventas por medio del internet.</p><!--<a class="button-width-190 button-primary button-circle button-lg button offset-top-30" href="#">read more</a>-->
               </div>
             </div>
