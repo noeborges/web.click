@@ -28,36 +28,36 @@
         <div class="rd-navbar-wrap" >
           <nav class="rd-navbar rd-navbar-classic" data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed" data-md-layout="rd-navbar-fixed" data-md-device-layout="rd-navbar-fixed" data-lg-layout="rd-navbar-static" data-lg-device-layout="rd-navbar-static" data-xl-layout="rd-navbar-static" data-xl-device-layout="rd-navbar-static" data-lg-stick-up-offset="46px" data-xl-stick-up-offset="46px" data-xxl-stick-up-offset="46px" data-lg-stick-up="true" data-xl-stick-up="true" data-xxl-stick-up="true">
             <div class="rd-navbar-collapse-toggle rd-navbar-fixed-element-1" data-rd-navbar-toggle=".rd-navbar-collapse"><span></span></div>
-            <div class="rd-navbar-aside-outer rd-navbar-collapse bg-gray-dark" style="background-color:#61616100000000000000;!important">
-              <div class="rd-navbar-aside" style="background-color:#61616100000000000000;!important">
+            <div class="rd-navbar-aside-outer rd-navbar-collapse bg-gray-dark1" style="background-color:;!important">
+              <div class="rd-navbar-aside" style="background-color:#A;!important">
                 <ul class="list-inline navbar-contact-list">
                   <li>
                     <div class="unit unit-spacing-xs align-items-center">
-                      <div class="unit-left"><span class="icon text-middle fa fa-whatsapp"  ></span></div>
-                      <div class="unit-body"><a href="https://api.whatsapp.com/send?phone=5219843161701&text=Hola%21%20Quiero%20saber%20m%c3%a1s%20del%20marketing%20digital&source=&data=" target="_blank" > Enviar WhatsApp</a></div>
+                      <div class="unit-left"><span class="icon text-middle fa fa-whatsapp" style="color:#fff!important" ></span></div>
+                      <div class="unit-body"><a href="http://bit.ly/2OAxwNy" target="_blank" >WhatsApp</a></div>
+                    </div>
+                  </li>
+                 <li>
+                  <div class="unit unit-spacing-xs align-items-center">
+                      <div class="unit-left"><span class="icon text-middle fa-envelope" style="color:#fff!important"></span></div>
+                      <div class="unit-body"><a href="mailto:hola@clicktulum.com" style="color:#fff!important">hola@clicktulum.com</a></div>
                     </div>
                   </li>
                   <li>
                     <div class="unit unit-spacing-xs align-items-center">
-                      <div class="unit-left"><span class="icon text-middle fa-envelope"></span></div>
-                      <div class="unit-body"><a href="mailto:hola@clicktulum.com">hola@clicktulum.com</a></div>
-                    </div>
-                  </li>
-                  <li>
-                    <div class="unit unit-spacing-xs align-items-center">
-                      <div class="unit-left"><span class="icon text-middle fa-map-marker"></span></div>
-                      <div class="unit-body"><a href="#">Tulum, QRoo.</a></div>
+                      <div class="unit-left"><span class="icon text-middle fa-map-marker" style="color:#fff!important"></span></div>
+                      <div class="unit-body"><a href="#">Tulum, QRoo, México</a></div>
                     </div>
                   </li>
                 </ul>
                 <ul class="social-links">
-                  <li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-twitter" href="https://twitter.com/ClickTulum" target="_blank"></a></li>
-                  <li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-facebook" href="https://www.facebook.com/clickdevtulum/" target="_blank"></a></li>
-                  <li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-instagram" href="https://www.instagram.com/clicktulum/" target="_blank"></a></li>
+                  <li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-twitter" href="https://twitter.com/ClickTulum" target="_blank" style="color:#fff!important"></a></li>
+                  <li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-facebook" href="https://www.facebook.com/clickdevtulum/" target="_blank" style="color:#fff!important"></a></li>
+                  <li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-instagram" href="https://www.instagram.com/clicktulum/" target="_blank" style="color:#fff!important"></a></li>
                 </ul>
               </div>
             </div>
-            <div class="rd-navbar-main-outer" style="background-color:#2c343a;!important">
+            <div class="rd-navbar-main-outer" style="background-color:#00000069;!important">
               <div class="rd-navbar-main">
                 <!--RD Navbar Panel-->
                 <div class="rd-navbar-panel">
@@ -67,7 +67,7 @@
                 <!--
                   <div class="rd-navbar-brand">-->
                     <!--Brand-->
-                    <a class="brand" href="/"><img class="brand-logo-dark" src="/site/images/logo_dev-06.svg" alt="clickdev tulum" width="180" height="40"/></a>
+                    <a class="brand" href="/"><img class="brand-logo-dark" src="/site/images/lok-02-02.svg" alt="clickdev tulum" width="180" height="40"/></a>
 
                     <!-- </div>-->
                 </div>
@@ -78,9 +78,9 @@
                       </li>
                       <li class="rd-nav-item font-weight-bold"><a class="rd-nav-link" href="/diseno-web">Diseño WEB</a>
                       </li>
-                      <li class="rd-nav-item font-weight-bold"><a class="rd-nav-link" href="/marketing-digital">Marketing Digital</a>
-                      </li>
                       <li class="rd-nav-item font-weight-bold"><a class="rd-nav-link" href="/diseno-grafico-digital">Diseño Digital</a>
+                      </li>
+                      <li class="rd-nav-item font-weight-bold"><a class="rd-nav-link" href="/marketing-digital">Marketing Digital</a>
                       </li>
                       <li class="rd-nav-item font-weight-bold"><a class="rd-nav-link" href="/blog">Blog</a>
                       </li>
@@ -94,7 +94,7 @@
       </header>
 
 @yield('content')
-<a href="https://api.whatsapp.com/send?phone=5219843161701&text=Hola%21%20Quiero%20saber%20m%c3%a1s%20del%20marketing%20digital&source=&data=" class="whatsapp" target="_blank"> <span class="whatsapp-icon fa fa-whatsapp whatsapp"></span></a>
+<a href="http://bit.ly/2OAxwNy" class="whatsapp" target="_blank"> <span class="whatsapp-icon fa fa-whatsapp whatsapp"></span></a>
 
 <div id="cajacookies">
     <p>En nuestro sitio web utilizamos cookies propias y de terceros para mejorar tu experiencia de usuario y recoger datos estadísticos sobre el uso de nuestra web por parte de los usuarios. <br>Si navegas por nuestra web, estarás aceptando el uso de las cookies.<!--<a href="politica.html">política de privacidad</a>-->.
@@ -114,7 +114,7 @@
             </div>
             <div class="col-lg-4 col-sm-8 wow fadeInUp">
               <P class="footer-classic-title font-weight-bold">Contactanos</P>
-              <div class="d-block offset-top-0">Tulum, Q Roo.</span></div><a class="d-inline-block accent-link" href="mailto:hola@clicktulum.com">hola@clicktulum.com</a><br><a class="d-inline-block accent-link" href="https://api.whatsapp.com/send?phone=5219843161701&text=Hola%21%20Quiero%20saber%20m%c3%a1s%20del%20marketing%20digital&source=&data=" target="_blank"><span class="icon text-middle fa fa-whatsapp"></span> Enviar WhatsApp</a>
+              <div class="d-block offset-top-0">Tulum, Q Roo.</span></div><a class="d-inline-block accent-link" href="mailto:hola@clicktulum.com">hola@clicktulum.com</a><br><a class="d-inline-block accent-link" href="http://bit.ly/2OAxwNy" target="_blank"><span class="icon text-middle fa fa-whatsapp"></span> Enviar WhatsApp</a>
             </div>
             <div class="col-lg-4 col-sm-4 wow fadeInUp" data-wow-delay=".3s">
               <P class="footer-classic-title font-weight-bold">Nuestros Servicios</P>

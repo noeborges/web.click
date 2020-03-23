@@ -34,8 +34,8 @@
           <div class="row justify-content-center">
             <div class="col-xl-8 col-12">
               <div class="main-decorated-box text-center text-xl-left">
-                <h1 class="text-white text-xl-center wow slideInRight" data-wow-delay=".3s"><span class="align-top offset-top-30 d-inline-block font-weight-light prefix-text">Tulum MX</span><br><span class="big font-weight-bold d-inline-flex offset-right-180">Marketing <br> Digital</span><span class="biggest d-block d-xl-flex font-weight-bold"></span></h1>
-                <div class="wow slideInLeft"><br><br><center><a href="https://api.whatsapp.com/send?phone=5219843161701&text=Hola%21%20Quiero%20saber%20m%c3%a1s%20del%20marketing%20digital&source=&data=" class="btn btn-primary py-3 pl-5 pr-5 "><span class="icon text-middle ">  <span class="icon text-middle fa fa-whatsapp"></span> Comenzar Hoy!</a></center></div>
+                <h1 class="text-white text-xl-center wow slideInRight" data-wow-delay=".3s"><span class="align-top offset-top-30 d-inline-block font-weight-light prefix-text">Tulum MX</span><br><span class="big font-weight-bold d-inline-flex offset-right-180">Impulsate con <br> MKT Digital</span><span class="biggest d-block d-xl-flex font-weight-bold"></span></h1>
+                <div class="wow slideInLeft"><br><br><center><a href="http://bit.ly/2OAxwNy" class="btn btn-primary py-3 pl-5 pr-5 "><span class="icon text-middle ">  <span class="icon text-middle fa fa-whatsapp"></span> Consulta de regalo 🎁</a></center></div>
               </div>
             </div>
             <div class="col-12 text-center offset-top-75" data-wow-delay=".2s"><a class="button-way-point d-inline-block text-center d-inline-flex flex-column justify-content-center" href="#" data-custom-scroll-to="about"><span class="fa-chevron-down"></span></a></div>
@@ -233,7 +233,7 @@
 
           <div class="row row-30 justify-content-center">
             <div class="col-xl-4 col-md-6 col-12 wow fadeInDown" data-wow-delay=".3s">
-              <div class="pricing-box" style="background-color: #00AFF4!important;">
+              <div class="pricing-box" style="background-color: #01579B!important;">
                 <div class="pricing-box-tittle">¿No tienes Sitio WEB?</div>
                 <p>Perfecto para iniciar o startups</p>
                 <hr/>
@@ -243,8 +243,8 @@
             </div>
 
             <div class="col-xl-4 col-md-6 col-12 wow fadeInUp" data-wow-delay=".4s">
-              <div class="pricing-box"  style="background-color: #FFD400!important;">
-                <div class="pricing-box-tittle">Imagen Digital</div>
+              <div class="pricing-box"  style="background-color: #006064!important;">
+                <div class="pricing-box-tittle">Diseño Digital</div>
                 <p>Diseñamos tus ideas</p>
                 <hr/>
                 <div class="pricing-box-inner"><span class="pricing-box-symbol"></span><span class="pricing-box-price">Diseño Digital</span></div>
@@ -255,7 +255,7 @@
 
             <div class="col-xl-4 col-md-6 col-12 wow fadeInDown" data-wow-delay=".3s">
               <div class="pricing-box"  style="background-color:  #F43B90!important;">
-                <div class="pricing-box-tittle">Administración de Redes</div>
+                <div class="pricing-box-tittle">MKT digital</div>
                 <p>Facebook e Instagram</p>
                 <hr/>
                 <div class="pricing-box-inner"><span class="pricing-box-symbol"></span><span class="pricing-box-price">MKT Digital</span></div>

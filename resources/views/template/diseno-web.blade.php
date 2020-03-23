@@ -36,7 +36,7 @@
 
 @section('content')
 
-<section class="section section-intro context-dark" style="background-color: #01CCF7!important;">
+<section class="section section-intro context-dark" style="background-color: #01579B!important;">
 
     <div class="intro-bg" style="background: url(https://images.unsplash.com/photo-1542744095-291d1f67b221?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=80) no-repeat; opacity: 0.2!important;background-size:cover;background-position: top center;"></div>
 
@@ -72,11 +72,11 @@
 
         <div class="col-md col-12 text-center">
 
-          <img src="/site/images/open-grap-web.jpg" alt="Diseño y Paginas WEB en Tulum"><br><br>
+         
 
           <div class="section-name wow fadeInRight" data-wow-delay=".2s">Diseñamos un sitio web adaptado a tus necesidaes</div>
 
-          <h3 class="wow fadeInLeft text-capitalize font-weight-bold" data-wow-delay=".3s">Tú empresa<span style="color: #00AFF4!important;"> .com</span></h3>
+          <h3 class="wow fadeInLeft text-capitalize font-weight-bold" data-wow-delay=".3s">Tú empresa<span style="color: #01579B!important;"> .com</span></h3>
 
           <p class="block-675">Un sitio web es mucho más barato que  abrir una sucursal de tu negocio vende en linea.</p>
 
@@ -138,7 +138,7 @@
 
                   Certificado SSL<br></p>
 
-                  <a class="button button-190 button-circle btn-rounded-outline" href="https://api.whatsapp.com/send?phone=5219843161701&text=Hola%21%20Quiero%20saber%20m%c3%a1s%20del%20marketing%20digital&source=&data=" target="_blank"><span class="icon text-middle fa fa-whatsapp"></span>WhatsApp</a>
+                  <a class="button button-190 button-circle btn-rounded-outline" href="http://bit.ly/2OAxwNy" target="_blank"><span class="icon text-middle fa fa-whatsapp"></span>WhatsApp</a>
 
               </div>
 
@@ -178,7 +178,7 @@
 
                     
 
-                    </p> <a class="button button-190 button-circle btn-rounded-outline" href="https://api.whatsapp.com/send?phone=5219843161701&text=Hola%21%20Quiero%20saber%20m%c3%a1s%20del%20marketing%20digital&source=&data=" target="_blank"><span class="icon text-middle fa fa-whatsapp"></span> WhatsApp</a>
+                    </p> <a class="button button-190 button-circle btn-rounded-outline" href="http://bit.ly/2OAxwNy" target="_blank"><span class="icon text-middle fa fa-whatsapp"></span> WhatsApp</a>
 
               </div>
 
@@ -230,7 +230,7 @@
 
                   
 
-                  </p> <a class="button button-190 button-circle btn-rounded-outline" href="https://api.whatsapp.com/send?phone=5219843161701&text=Hola%21%20Quiero%20saber%20m%c3%a1s%20del%20marketing%20digital&source=&data=" target="_blank"><span class="icon text-middle fa fa-whatsapp"></span> WhatsApp</a>
+                  </p> <a class="button button-190 button-circle btn-rounded-outline" href="http://bit.ly/2OAxwNy" target="_blank"><span class="icon text-middle fa fa-whatsapp"></span> WhatsApp</a>
 
               </div>
 

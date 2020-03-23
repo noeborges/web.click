@@ -115,7 +115,7 @@
                   1 Correo <br>
                   Enlaces a redes sociales (fb, insta, tw) <br>
                   Certificado SSL<br></p>
-                  <a class="button button-190 button-circle btn-rounded-outline" href="https://api.whatsapp.com/send?phone=5219843161701&text=Hola%21%20Quiero%20saber%20m%c3%a1s%20del%20marketing%20digital&source=&data=" target="_blank"><span class="icon text-middle fa fa-whatsapp"></span> WhatsApp</a>
+                  <a class="button button-190 button-circle btn-rounded-outline" href="http://bit.ly/2OAxwNy" target="_blank"><span class="icon text-middle fa fa-whatsapp"></span> WhatsApp</a>
               </div>
             </div>
             <div class="col-xl-4 col-md-6 col-12 wow fadeInUp" data-wow-delay=".4s">
@@ -135,7 +135,7 @@
                     Mapa.<br>
                     Certificado SSL<br>
                     
-                    </p> <a class="button button-190 button-circle btn-rounded-outline" href="https://api.whatsapp.com/send?phone=5219843161701&text=Hola%21%20Quiero%20saber%20m%c3%a1s%20del%20marketing%20digital&source=&data=" target="_blank"><span class="icon text-middle fa fa-whatsapp"></span> WhatsApp</a>
+                    </p> <a class="button button-190 button-circle btn-rounded-outline" href="http://bit.ly/2OAxwNy" target="_blank"><span class="icon text-middle fa fa-whatsapp"></span> WhatsApp</a>
               </div>
             </div>
             <div class="col-xl-4 col-md-6 col-12 wow fadeInDown" data-wow-delay=".3s">
@@ -161,7 +161,7 @@
                     Certificado SSL<br>
                     
                
-                  </p> <a class="button button-190 button-circle btn-rounded-outline" href="https://api.whatsapp.com/send?phone=5219843161701&text=Hola%21%20Quiero%20saber%20m%c3%a1s%20del%20marketing%20digital&source=&data=" target="_blank"><span class="icon text-middle fa fa-whatsapp"></span>WhatsApp</a>
+                  </p> <a class="button button-190 button-circle btn-rounded-outline" href="http://bit.ly/2OAxwNy" target="_blank"><span class="icon text-middle fa fa-whatsapp"></span>WhatsApp</a>
               </div>
             </div>
           </div>

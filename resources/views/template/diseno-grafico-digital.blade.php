@@ -38,7 +38,7 @@
 
 @section('content')
 
-<section class="section section-intro context-dark" style="background-color: #FFDE00!important;">
+<section class="section section-intro context-dark" style="background-color: #006064!important;">
 
     <div class="intro-bg" style="background: url(https://images.unsplash.com/photo-1517260911058-0fcfd733702f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80) no-repeat; opacity: 0.2!important;background-size:cover;background-position: top center;"></div>
 
@@ -73,11 +73,10 @@
 
         <div class="col-md col-12 text-center">
 
-          <img src="/site/images/open-grap-design.jpg" alt="Diseño Grafico e Imprenta en Tulum"><br><br>
 
           <div class="section-name wow fadeInRight" data-wow-delay=".2s">¿No tienes imagen digital?</div>
 
-          <h3 class="wow fadeInLeft font-weight-bold" data-wow-delay=".3s">Diseño<span style="color: #fbd222!important;"> un refresh para tu imagen!</span></h3>
+          <h3 class="wow fadeInLeft font-weight-bold" data-wow-delay=".3s">Diseño<span style="color: #006064!important;"> un refresh para tu imagen!</span></h3>
 
           <p class="block-675">Si estas en ceros y desear realizar un logotipo, membretes, tarjetas y más te ayudamos con eso! o si deseas rediseñar algo que ya tengas.</p>
 
@@ -89,7 +88,7 @@
 
         <div class="col-xl-6 col-sm-12 col-12 wow fadeInLeft" data-wow-delay=".3s">
 
-            <div class="pricing-box" style="background-color: #fbd222!important;">
+            <div class="pricing-box" style="background-color: #006064!important;">
 
               <div class="pricing-box-tittle">Imagen Digital</div>
 
@@ -113,13 +112,13 @@
 
                     
 
-              </p><a class="button button-190 button-circle btn-rounded-outline" href="https://api.whatsapp.com/send?phone=5219843161701&text=Hola%21%20Quiero%20saber%20m%c3%a1s%20del%20marketing%20digital&source=&data=" target="_blank"><span class="icon text-middle fa fa-whatsapp"></span> WhatsApp</a>
+              </p><a class="button button-190 button-circle btn-rounded-outline" href="http://bit.ly/2OAxwNy" target="_blank"><span class="icon text-middle fa fa-whatsapp"></span> WhatsApp</a>
 
             </div>
 
         </div>
 
-        <div class="col-xl-6 col-sm-12 col-12 wow fadeInUp" data-wow-delay=".3s">
+       <!-- <div class="col-xl-6 col-sm-12 col-12 wow fadeInUp" data-wow-delay=".3s">
 
           <div class="team-classic-wrap">
 
@@ -161,13 +160,7 @@
 
                 </div>
 
-                <!--Google captcha
 
-                <div class="form-wrap text-left form-validation-left">
-
-                  <div class="recaptcha" id="captcha1" data-sitekey="6LfZlSETAAAAAC5VW4R4tQP8Am_to4bM3dddxkEt"></div>
-
-                </div>-->
 
                 <div class="form-button group-sm text-center text-lg-left">
 
@@ -183,7 +176,7 @@
 
 
 
-    </div>
+    </div>-->
 
   </section>
 
