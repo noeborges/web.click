@@ -57,7 +57,7 @@
                 </ul>
               </div>
             </div>
-            <div class="rd-navbar-main-outer" style="background-color:#00000069;!important">
+            <div class="rd-navbar-main-outer" style="background-color:#030B14;!important">
               <div class="rd-navbar-main">
                 <!--RD Navbar Panel-->
                 <div class="rd-navbar-panel">
