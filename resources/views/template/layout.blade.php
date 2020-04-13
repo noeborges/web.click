@@ -9,14 +9,12 @@
     <meta name="google-site-verification" content="1EclP-XuvqyhAkk4FvttZJAWI7o68Niryz5wo_1yU8k" />
     @yield('opengraph')
     <style>.ie-panel{display: none;background: #212121;padding: 10px 0;box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3);clear: both;text-align:center;position: relative;z-index: 1;} html.ie-10 .ie-panel, html.lt-ie-10 .ie-panel {display: block;}</style>
-    <link rel="stylesheet" href="/site/css/bootstrap.css">
     <link rel="stylesheet" href="/site/css/style.css">
-    
   </head>
   <body>
     <div class="ie-panel"><a href="http://windows.microsoft.com/en-US/internet-explorer/"><img src="/site/images/ie8-panel/warning_bar_0000_us.jpg" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."></a></div>
     <div class="preloader">
-      <div class="preloader-body">
+      <div class="preloader-body1">
         <div class="cssload-container">
           <div class="cssload-speeding-wheel"></div>
         </div>
@@ -139,38 +137,21 @@
     </div>
 
     <div class="snackbars" id="form-output-global"></div>
+    <link rel="stylesheet" href="/site/css/bootstrap.css">
     <link rel="stylesheet" href="/site/css/fonts.css">
+    <!--
+        <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    -->
 
-    <script src="/site/js/core.min.js"></script>
-    <script src="/site/js/script.js"></script>
-    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
- 
-      <!-- Global site tag (gtag.js) - Google Analytics -->
-      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-119761876-2"></script>
-        <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'UA-119761876-2');
-        </script>
+        <script src="/site/js/core.min.js"></script>
+        <script src="/site/js/script.js"></script>
 
-
-<!-- Facebook Pixel Code -->
-<script>
-  !function(f,b,e,v,n,t,s)
-  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-  n.queue=[];t=b.createElement(e);t.async=!0;
-  t.src=v;s=b.getElementsByTagName(e)[0];
-  s.parentNode.insertBefore(t,s)}(window, document,'script',
-  'https://connect.facebook.net/en_US/fbevents.js');
-  fbq('init', '125844788755210');
-  fbq('track', 'PageView');
-</script>
-<noscript><img height="1" width="1" style="display:none"
-  src="https://www.facebook.com/tr?id=125844788755210&ev=PageView&noscript=1"
-/></noscript>
-<!-- End Facebook Pixel Code -->
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-119761876-2"></script>
+        <script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","UA-119761876-2");</script>
+        <!-- Facebook Pixel Code -->
+        <script>!function(e,t,n,c,o,a,f){e.fbq||(o=e.fbq=function(){o.callMethod?o.callMethod.apply(o,arguments):o.queue.push(arguments)},e._fbq||(e._fbq=o),o.push=o,o.loaded=!0,o.version="2.0",o.queue=[],(a=t.createElement(n)).async=!0,a.src="https://connect.facebook.net/en_US/fbevents.js",(f=t.getElementsByTagName(n)[0]).parentNode.insertBefore(a,f))}(window,document,"script"),fbq("init","125844788755210"),fbq("track","PageView");</script>
+        <noscript><img height="1" width="1" style="display:none"src="https://www.facebook.com/tr?id=125844788755210&ev=PageView&noscript=1"/></noscript>
+        <!-- End Facebook Pixel Code -->
  </body>
 </html>

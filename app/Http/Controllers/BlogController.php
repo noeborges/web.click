@@ -45,11 +45,17 @@ class BlogController extends Controller
      *
      * @param  \App\blog  $blog
      * @return \Illuminate\Http\Response
-     */
-    public function show(blog $blog)
+     *//*
+    public function show(Request $request, $id)
     {
-        //
+
     }
+*/
+    public function show(Request $request, $id)
+    {
+ 
+    } 
+
 
     /**
      * Show the form for editing the specified resource.
