@@ -8,18 +8,18 @@
 
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@clicktulum">
-    <meta name="twitter:creator" content="@clicktulum">
+    <meta name="twitter:site" content="@i7devs">
+    <meta name="twitter:creator" content="@i7devs">
     <meta name="twitter:title" content="Marketing Digital">
     <meta name="twitter:description" content="Marketing Digital y Diseño Web en Tulum">
-    <meta name="twitter:image" content="https://clicktulum.com/open_2021.jpg">
+    <meta name="twitter:image" content="https://i7devs.com/open.png">
 
     <!-- Open Graph general (Facebook, Pinterest & Google+) -->
 
     <meta name="og:title" content="Marketing Digital y Diseño Web en Tulum">
     <meta name="og:description"content="Marketing Digital y Diseño Web en Tulum">
-    <meta name="og:image" content="https://clicktulum.com/open_2021.jpg">
-    <meta name="og:url" content="https://clicktulum.com">
+    <meta name="og:image" content="https://i7devs.com/open.png">
+    <meta name="og:url" content="https://i7devs.com">
     <meta name="og:site_name" content="Diseño WEB, Marketing Digital, Diseño Grafico en Tulum">
     <meta name="og:type" content="article">
 
@@ -35,7 +35,7 @@
             <div class="col-xl-8 col-12">
               <div class="main-decorated-box text-center text-xl-left">
                 <h1 class="text-white text-xl-center wow slideInRight" data-wow-delay=".3s"><span class="align-top offset-top-30 d-inline-block font-weight-light prefix-text">Tulum MX</span><br><span class="big font-weight-bold d-inline-flex offset-right-180">Impulsate con <br> MKT Digital</span><span class="biggest d-block d-xl-flex font-weight-bold"></span></h1>
-                <div class="wow slideInLeft"><br><br><center><a href="http://bit.ly/2OAxwNy" class="btn btn-primary py-3 pl-5 pr-5 "><span class="icon text-middle ">  <span class="icon text-middle fa fa-whatsapp"></span> Consulta de regalo 🎁</a></center></div>
+                <div class="wow slideInLeft"><br><br><center><a href="http://bit.ly/i7devs" class="btn btn-primary py-3 pl-5 pr-5 "><span class="icon text-middle ">  <span class="icon text-middle fa fa-whatsapp"></span> Consulta de regalo 🎁</a></center></div>
               </div>
             </div>
             <div class="col-12 text-center offset-top-75" data-wow-delay=".2s"><a class="button-way-point d-inline-block text-center d-inline-flex flex-column justify-content-center" href="#" data-custom-scroll-to="about"><span class="fa-chevron-down"></span></a></div>

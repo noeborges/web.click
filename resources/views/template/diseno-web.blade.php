@@ -5,31 +5,18 @@
 @section('opengraph')
 
     <!-- Twitter -->
-
     <meta name="twitter:card" content="summary_large_image">
-
     <meta name="twitter:title" content="Creación de Sitios y Páginas WEB Aumenta tus ventas con tu oficina online">
-
     <meta name="twitter:description" content="Tenemos en Sitio WEB ideal para que inicies la Transformación digital de tu empresa o servicio">
-
-    <meta name="twitter:site" content="@ClickTulum">
-
-    <meta name="twitter:creator" content="@ClickTulum">
-
-    <meta name="twitter:image:src" content="https://clicktulum.com/web-.png">
-
+    <meta name="twitter:site" content="@i7devs">
+    <meta name="twitter:creator" content="@i7devs">
+    <meta name="twitter:image:src" content="https://i7devs.com/open.png">
     <!-- Open Graph general (Facebook, Pinterest & Google+) -->
-
     <meta name="og:title" content="Creación de Sitios y Páginas WEB Aumenta tus ventas con tu oficina online">
-
     <meta name="og:description" content="Tenemos en Sitio WEB ideal para que inicies la Transformación digital de tu empresa o servicio">
-
-    <meta name="og:image" content="https://clicktulum.com/web-.png">
-
-    <meta name="og:url" content="https://clicktulum.com">
-
+    <meta name="og:image" content="https://i7devs.com/open.png">
+    <meta name="og:url" content="https://i7devs.com/">
     <meta name="og:site_name" content="Creación de Sitios y Páginas WEB Aumenta tus ventas con tu oficina online">
-
     <meta name="og:type" content="article">
 
 @stop
@@ -39,25 +26,14 @@
 <section class="section section-intro context-dark" style="background-color: #01579B!important;">
 
     <div class="intro-bg" style="background: url(https://images.unsplash.com/photo-1542744095-291d1f67b221?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=80) no-repeat; opacity: 0.2!important;background-size:cover;background-position: top center;"></div>
-
     <div class="container">
-
       <div class="row justify-content-center">
-
         <div class="col-xl-8 text-center">
-
           <h1 class="font-weight-bold wow fadeInLeft">Diseño WEB</h1>
-
-
-
           <p class="intro-description wow fadeInRight">Un sitio web te ayudara a estar a la vista de tu prospectos! conseguir clientes y aumentar tus ventas.</p>
-
         </div>
-
       </div>
-
     </div>
-
   </section>
 
 
@@ -138,7 +114,7 @@
 
                   Certificado SSL<br></p>
 
-                  <a class="button button-190 button-circle btn-rounded-outline" href="http://bit.ly/2OAxwNy" target="_blank"><span class="icon text-middle fa fa-whatsapp"></span>WhatsApp</a>
+                  <a class="button button-190 button-circle btn-rounded-outline" href="http://bit.ly/i7devs" target="_blank"><span class="icon text-middle fa fa-whatsapp"></span>WhatsApp</a>
 
               </div>
 
@@ -178,7 +154,7 @@
 
                     
 
-                    </p> <a class="button button-190 button-circle btn-rounded-outline" href="http://bit.ly/2OAxwNy" target="_blank"><span class="icon text-middle fa fa-whatsapp"></span> WhatsApp</a>
+                    </p> <a class="button button-190 button-circle btn-rounded-outline" href="http://bit.ly/i7devs" target="_blank"><span class="icon text-middle fa fa-whatsapp"></span> WhatsApp</a>
 
               </div>
 
@@ -230,7 +206,7 @@
 
                   
 
-                  </p> <a class="button button-190 button-circle btn-rounded-outline" href="http://bit.ly/2OAxwNy" target="_blank"><span class="icon text-middle fa fa-whatsapp"></span> WhatsApp</a>
+                  </p> <a class="button button-190 button-circle btn-rounded-outline" href="http://bit.ly/i7devs" target="_blank"><span class="icon text-middle fa fa-whatsapp"></span> WhatsApp</a>
 
               </div>
 
@@ -254,7 +230,7 @@
 
 
 
-      <div class="row row-50 justify-content-center">
+<!--       <div class="row row-50 justify-content-center">
 
  
 
@@ -300,13 +276,6 @@
 
                 </div>
 
-                <!--Google captcha
-
-                <div class="form-wrap text-left form-validation-left">
-
-                  <div class="recaptcha" id="captcha1" data-sitekey="6LfZlSETAAAAAC5VW4R4tQP8Am_to4bM3dddxkEt"></div>
-
-                </div>-->
 
                 <div class="form-button group-sm text-center text-lg-left">
 
@@ -319,7 +288,7 @@
           </div>
 
         </div>
-
+ -->
 
 
     </div>

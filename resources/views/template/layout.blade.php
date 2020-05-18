@@ -9,7 +9,8 @@
     <meta name="google-site-verification" content="1EclP-XuvqyhAkk4FvttZJAWI7o68Niryz5wo_1yU8k" />
     @yield('opengraph')
     <style>.ie-panel{display: none;background: #212121;padding: 10px 0;box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3);clear: both;text-align:center;position: relative;z-index: 1;} html.ie-10 .ie-panel, html.lt-ie-10 .ie-panel {display: block;}</style>
-    <link rel="stylesheet" href="/site/css/style.css">
+
+    <link rel="stylesheet" href="/site/css/bootstrap.css">
   </head>
   <body>
     <div class="ie-panel"><a href="http://windows.microsoft.com/en-US/internet-explorer/"><img src="/site/images/ie8-panel/warning_bar_0000_us.jpg" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."></a></div>
@@ -32,13 +33,13 @@
                   <li>
                     <div class="unit unit-spacing-xs align-items-center">
                       <div class="unit-left"><span class="icon text-middle fa fa-whatsapp" style="color:#fff!important" ></span></div>
-                      <div class="unit-body"><a href="http://bit.ly/2OAxwNy" target="_blank" >WhatsApp</a></div>
+                      <div class="unit-body"><a href="http://bit.ly/i7devs" target="_blank" >WhatsApp</a></div>
                     </div>
                   </li>
                  <li>
                   <div class="unit unit-spacing-xs align-items-center">
                       <div class="unit-left"><span class="icon text-middle fa-envelope" style="color:#fff!important"></span></div>
-                      <div class="unit-body"><a href="mailto:hola@clicktulum.com" style="color:#fff!important">hola@clicktulum.com</a></div>
+                      <div class="unit-body"><a href="mailto:hola@i7devs.com" style="color:#fff!important">hola@i7devs.com</a></div>
                     </div>
                   </li>
                   <li>
@@ -49,9 +50,9 @@
                   </li>
                 </ul>
                 <ul class="social-links">
-                  <li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-twitter" href="https://twitter.com/ClickTulum" target="_blank" style="color:#fff!important"></a></li>
-                  <li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-facebook" href="https://www.facebook.com/clickdevtulum/" target="_blank" style="color:#fff!important"></a></li>
-                  <li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-instagram" href="https://www.instagram.com/clicktulum/" target="_blank" style="color:#fff!important"></a></li>
+                  <li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-twitter" href="https://twitter.com/i7devs" target="_blank" style="color:#fff!important"></a></li>
+                  <li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-facebook" href="https://www.facebook.com/i7devs" target="_blank" style="color:#fff!important"></a></li>
+                  <li><a class="icon icon-sm icon-circle icon-circle-md icon-bg-white fa-instagram" href="https://www.instagram.com/i7devs" target="_blank" style="color:#fff!important"></a></li>
                 </ul>
               </div>
             </div>
@@ -65,7 +66,7 @@
                 <!--
                   <div class="rd-navbar-brand">-->
                     <!--Brand-->
-                    <a class="brand" href="/"><img class="brand-logo-dark" src="/site/images/lok-02-02.svg" alt="clickdev tulum" width="180" height="40"/></a>
+                    <a class="brand" href="/"><img class="brand-logo-dark" src="/site/images/lok-02-02.svg" alt="clickdev tulum" width="190" height="42"/></a>
 
                     <!-- </div>-->
                 </div>
@@ -92,7 +93,7 @@
       </header>
 
 @yield('content')
-<a href="http://bit.ly/2OAxwNy" class="whatsapp" target="_blank"> <span class="whatsapp-icon fa fa-whatsapp whatsapp"></span></a>
+<a href="http://bit.ly/i7devs" class="whatsapp" target="_blank"> <span class="whatsapp-icon fa fa-whatsapp whatsapp"></span></a>
 
 <div id="cajacookies">
     <p>En nuestro sitio web utilizamos cookies propias y de terceros para mejorar tu experiencia de usuario y recoger datos estadísticos sobre el uso de nuestra web por parte de los usuarios. <br>Si navegas por nuestra web, estarás aceptando el uso de las cookies.<!--<a href="politica.html">política de privacidad</a>-->.
@@ -112,7 +113,7 @@
             </div>
             <div class="col-lg-4 col-sm-8 wow fadeInUp">
               <P class="footer-classic-title font-weight-bold">Contactanos</P>
-              <div class="d-block offset-top-0">Tulum, Q Roo.</span></div><a class="d-inline-block accent-link" href="mailto:hola@clicktulum.com">hola@clicktulum.com</a><br><a class="d-inline-block accent-link" href="http://bit.ly/2OAxwNy" target="_blank"><span class="icon text-middle fa fa-whatsapp"></span> Enviar WhatsApp</a>
+              <div class="d-block offset-top-0">Tulum, Q Roo.</span></div><a class="d-inline-block accent-link" href="mailto:hola@i7devs.com">hola@i7devs.com</a><br><a class="d-inline-block accent-link" href="http://bit.ly/i7devs" target="_blank"><span class="icon text-middle fa fa-whatsapp"></span> Enviar WhatsApp</a>
             </div>
             <div class="col-lg-4 col-sm-4 wow fadeInUp" data-wow-delay=".3s">
               <P class="footer-classic-title font-weight-bold">Nuestros Servicios</P>
@@ -127,28 +128,23 @@
         <div class="container wow fadeInUp" data-wow-delay=".4s">
           <div class="footer-classic-aside">
             <ul class="social-links">
-              <li><a class="fa fa fa-twitter" href="https://www.facebook.com/clickdevtulum/" target="_blank"></a></li>
-              <li><a class="fa fa-facebook" href="https://twitter.com/ClickTulum" target="_blank"></a></li>
-              <li><a class="fa fa-instagram" href="https://www.instagram.com/clicktulum/" target="_blank"></a></li>
+              <li><a class="fa fa fa-twitter" href="https://www.facebook.com/i7devs" target="_blank"></a></li>
+              <li><a class="fa fa-facebook" href="https://twitter.com/i7devs" target="_blank"></a></li>
+              <li><a class="fa fa-instagram" href="https://www.instagram.com/i7devs" target="_blank"></a></li>
             </ul>
           </div>
         </div>
       </footer>
     </div>
 
-    <div class="snackbars" id="form-output-global"></div>
-    <link rel="stylesheet" href="/site/css/bootstrap.css">
-    <link rel="stylesheet" href="/site/css/fonts.css">
-    <!--
-        <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
-    -->
-
+        <div class="snackbars" id="form-output-global"></div>
+        <link rel="stylesheet" href="/site/css/fonts.css">
+        <link rel="stylesheet" href="/site/css/style.css">
         <script src="/site/js/core.min.js"></script>
         <script src="/site/js/script.js"></script>
-
         <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-119761876-2"></script>
-        <script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","UA-119761876-2");</script>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-165964638-1"></script>
+        <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-165964638-1');</script>
         <!-- Facebook Pixel Code -->
         <script>!function(e,t,n,c,o,a,f){e.fbq||(o=e.fbq=function(){o.callMethod?o.callMethod.apply(o,arguments):o.queue.push(arguments)},e._fbq||(e._fbq=o),o.push=o,o.loaded=!0,o.version="2.0",o.queue=[],(a=t.createElement(n)).async=!0,a.src="https://connect.facebook.net/en_US/fbevents.js",(f=t.getElementsByTagName(n)[0]).parentNode.insertBefore(a,f))}(window,document,"script"),fbq("init","125844788755210"),fbq("track","PageView");</script>
         <noscript><img height="1" width="1" style="display:none"src="https://www.facebook.com/tr?id=125844788755210&ev=PageView&noscript=1"/></noscript>

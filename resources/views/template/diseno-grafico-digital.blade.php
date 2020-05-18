@@ -12,11 +12,11 @@
 
     <meta name="twitter:description" content="Diseñamos la imagen de tu empresa o servicio tus ideas a todo color">
 
-    <meta name="twitter:site" content="@ClickTulum">
+    <meta name="twitter:site" content="@i7devs">
 
-    <meta name="twitter:creator" content="@ClickTulum">
+    <meta name="twitter:creator" content="@i7devs">
 
-    <meta name="twitter:image:src" content="https://clicktulum.com/diseno.png">
+    <meta name="twitter:image:src" content="https://i7devs.com/open.png">
 
     <!-- Open Graph general (Facebook, Pinterest & Google+) -->
 
@@ -24,9 +24,9 @@
 
     <meta name="og:description" content="Diseñamos la imagen de tu empresa o servicio tus ideas a todo color">
 
-    <meta name="og:image" content="https://clicktulum.com/diseno.png">
+    <meta name="og:image" content="https://i7devs.com/open.png">
 
-    <meta name="og:url" content="https://clicktulum.com">
+    <meta name="og:url" content="https://i7devs.com/">
 
     <meta name="og:site_name" content="Diseñamos la imagen de tu empresa o servicio tus ideas a todo color">
 
@@ -112,7 +112,7 @@
 
                     
 
-              </p><a class="button button-190 button-circle btn-rounded-outline" href="http://bit.ly/2OAxwNy" target="_blank"><span class="icon text-middle fa fa-whatsapp"></span> WhatsApp</a>
+              </p><a class="button button-190 button-circle btn-rounded-outline" href="http://bit.ly/i7devs" target="_blank"><span class="icon text-middle fa fa-whatsapp"></span> WhatsApp</a>
 
             </div>
 
